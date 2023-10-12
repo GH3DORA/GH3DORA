@@ -9,7 +9,7 @@ I love listening to music 🎧, playing basketball🏀 and working out🏋 whene
 <p align="center">I would love to join a community that works on projects and develops and enhances everybody's skills!</p>
 
 <h3>Tools :</h3>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></img>
 <h3>Languages :</h3>
 
 
