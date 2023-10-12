@@ -20,9 +20,6 @@ I love listening to music 🎧, playing basketball🏀 and working out🏋 whene
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <h3> 🔎 Currently learning :</h3>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
-<h3>Stats :</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **GH3DORA/GH3DORA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
