@@ -1,6 +1,6 @@
+<img src="https://github.com/GH3DORA/GH3DORA/assets/147273921/8e016da1-b4e3-4c13-b698-f51f98dacdcc" alt="my banner" height=2560px width=1440px>
 Hello! I am Sehajdeep Singh, a student at Thapar Institute of Engineering and Technology, pursuing computer engineering.
 I am a passionate coder, currently learning JavaScript. I like aesthetic and simplistic designs, which i try to incorporate into whatever i code.
-<img src="https://github.com/GH3DORA/GH3DORA/assets/147273921/8e016da1-b4e3-4c13-b698-f51f98dacdcc" alt="my banner">
 I love listening to music 🎧, playing basketball🏀 and working out🏋 whenever im not coding/studying.
 
 I would love to join a community that works on projects and develops and enhances everybody's skills!
