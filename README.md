@@ -8,7 +8,7 @@ I love listening to music 🎧, playing basketball🏀 and working out🏋 whene
 
 I would love to join a community that works on projects and develops and enhances everybody's skills!
 
-Tools :
+<h3>Tools :</h3>
 
 
 <!--
